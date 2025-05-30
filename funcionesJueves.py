@@ -4,7 +4,7 @@
 
 # Ejemplo 1: Crear una calculadora que tenga las funciones principales
 # como suma, resta, multiplicación y division usando funciones que 
-# reciben parámetros y retornan el resultado
+# reciben parámetros y retornan el resultado.
 
 '''
 def suma(a, b):
@@ -123,7 +123,9 @@ while True:
 
 #----------------------------------------------------------------------
 '''
-#Ejemplo 2: 
+# Ejemplo 2: Crear un diccionario de empleados con lista de pendientes en donde se tengan
+# las siguientes acciones: agregar pendientes, consultar pendientes y eliminar pendientes.
+# Debe ser un proceso en bucle hasta que el usuario marque el fin del programa.
 
 def mostrar_menu_principal():
     """
